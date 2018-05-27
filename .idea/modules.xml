@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/idea-ssm-project.iml" filepath="$PROJECT_DIR$/idea-ssm-project.iml" />
       <module fileurl="file://$PROJECT_DIR$/mybatisdemo/mybatisdemo.iml" filepath="$PROJECT_DIR$/mybatisdemo/mybatisdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/myspringmvc/myspringmvc.iml" filepath="$PROJECT_DIR$/myspringmvc/myspringmvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shiro-demo1/shiro-demo1.iml" filepath="$PROJECT_DIR$/shiro-demo1/shiro-demo1.iml" />
       <module fileurl="file://$PROJECT_DIR$/springdemo/springdemo.iml" filepath="$PROJECT_DIR$/springdemo/springdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/springmybatisdemo/springmybatisdemo.iml" filepath="$PROJECT_DIR$/springmybatisdemo/springmybatisdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/ssm/ssm.iml" filepath="$PROJECT_DIR$/ssm/ssm.iml" />
