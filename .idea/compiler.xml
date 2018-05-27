@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="imooc-shiro" />
         <module name="mybatisdemo" />
         <module name="myspringmvc" />
         <module name="springdemo" />
@@ -14,6 +15,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="imooc-shiro" target="1.5" />
       <module name="mybatisdemo" target="1.5" />
       <module name="myspringmvc" target="1.5" />
       <module name="springdemo" target="1.5" />

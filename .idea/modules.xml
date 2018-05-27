@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/idea-ssm-project.iml" filepath="$PROJECT_DIR$/idea-ssm-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imooc-shiro/imooc-shiro.iml" filepath="$PROJECT_DIR$/imooc-shiro/imooc-shiro.iml" />
       <module fileurl="file://$PROJECT_DIR$/mybatisdemo/mybatisdemo.iml" filepath="$PROJECT_DIR$/mybatisdemo/mybatisdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/myspringmvc/myspringmvc.iml" filepath="$PROJECT_DIR$/myspringmvc/myspringmvc.iml" />
       <module fileurl="file://$PROJECT_DIR$/shiro-demo1/shiro-demo1.iml" filepath="$PROJECT_DIR$/shiro-demo1/shiro-demo1.iml" />
